@@ -2,5 +2,3 @@
 
 
 Hatchkey
-Albay
-Male
